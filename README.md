@@ -67,4 +67,6 @@ Developed an interactive Power BI HR Analytics Dashboard that provided actionabl
 **PowerBI Link:** [https://app.powerbi.com/groups/me/reports/73dde9ac-0f41-41cc-a50c-9d70a453b3f2?ctid=6ab2fdb5-cc9e-42b3-8fb9-08ee58b9c4a1&pbi_source=linkShare]
 
 **Power BI Dashboard:** 
+![Screenshot 2025-01-03 165226](https://github.com/user-attachments/assets/ce53cd36-0cb9-4ae8-9e0b-39c21c89413c)
+
 
